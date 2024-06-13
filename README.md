@@ -1,9 +1,4 @@
-Sure! Below is a sample `README.md` file for your Node.js and Express.js API starter kit. This README includes instructions on how to set up, use, and test the project.
-
-### `README.md`
-
-```markdown
-# Node.js and Express.js API Starter Kit
+# Node.js and Express.js and MongoDB API Starter Kit
 
 This project is a starter kit for building APIs with Node.js and Express.js. It provides a basic setup including user authentication, routing, and a connection to MongoDB.
 
@@ -20,7 +15,6 @@ This project is a starter kit for building APIs with Node.js and Express.js. It 
 - Node.js (v12 or higher)
 - npm (v6 or higher)
 - MongoDB (Local or Atlas)
-```
 
 ## Getting Started
 
