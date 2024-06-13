@@ -1,14 +1,14 @@
 {
   "name": "create-api-starter-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js and Express.js API starter kit",
   "main": "npx-create-api-starter-kit.js",
+  "bin": {
+    "create-api-starter-kit": "./bin/cli.js"
+  },
   "scripts": {
     "start": "node --watch src/index.js",
     "test": "jest"
-  },
-  "bin": {
-    "create-express-mongodb-api-starter-kit": "./npx-create-express-mongodb-api-starter-kit.js"
   },
   "keywords": [
     "nodejs",
