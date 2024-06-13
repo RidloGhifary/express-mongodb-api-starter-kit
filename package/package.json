@@ -1,6 +1,6 @@
 {
   "name": "express-api-starter-kit",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "express-api-starter-kit",
   "main": "index.js",
   "bin": {
