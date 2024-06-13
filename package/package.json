@@ -1,0 +1,37 @@
+{
+  "name": "express-api-starter-kit",
+  "version": "1.0.0",
+  "description": "express-api-starter-kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidloGhifary/express-mongodb-api-starter-kit.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api",
+    "starterkit"
+  ],
+  "author": "Ridlo Ghifary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RidloGhifary/express-mongodb-api-starter-kit/issues"
+  },
+  "homepage": "https://github.com/RidloGhifary/express-mongodb-api-starter-kit#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
