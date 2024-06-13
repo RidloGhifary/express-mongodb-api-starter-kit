@@ -3,12 +3,11 @@
 console.log("Setting up your API starter kit...");
 // Add your setup code here
 
-const { execSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
 
 // Path to the starter kit files
-const starterKitPath = path.join(__dirname, "api-starter-kit");
+const starterKitPath = path.join(__dirname, "create-api-starter-kit");
 
 // Function to copy files
 function copyFiles(source, destination) {
