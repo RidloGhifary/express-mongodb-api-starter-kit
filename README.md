@@ -23,8 +23,8 @@ This project is a starter kit for building APIs with Node.js and Express.js. It 
 1. Clone the repository:
 
 ```sh
-   git clone https://github.com/yourusername/api-starter-kit.git
-   cd api-starter-kit
+   git clone https://github.com/yourusername/express-mongodb-api-starter-kit.git
+   cd express-mongodb-api-starter-kit
 ```
 
 2. Install the dependencies:
