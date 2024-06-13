@@ -10,7 +10,14 @@
   "bin": {
     "create-express-mongodb-api-starter-kit": "./npx-create-express-mongodb-api-starter-kit.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "starter",
+    "kit"
+  ],
   "author": "Ridlo Ghifary",
   "license": "MIT",
   "dependencies": {
