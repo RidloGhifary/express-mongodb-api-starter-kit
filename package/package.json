@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "express-api-starter-kit",
   "main": "index.js",
+  "bin": {
+    "create-express-api-starter": "./bin/cli.js"
+  },
   "scripts": {
     "start": "node --watch src/index.js",
     "dev": "nodemon src/index.js",
